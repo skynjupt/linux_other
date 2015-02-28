@@ -1,0 +1,4 @@
+:set foldmethod=syntax
+:syntax enable
+:syntax on
+set hlsearch
